@@ -3,7 +3,7 @@
 Program to check degree of profanity in a file full of Twitter tweets by various users provided by a set of words that indicates racial slurs.
 
 ## Assumptions:
-					- Degree of profanity: 
+	 - Degree of profanity: 
               1. 0 for not racially profane.
               2. 1 for racially profane.
               
